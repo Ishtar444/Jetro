@@ -1,0 +1,16 @@
+html {
+    box-sizing: border-box;
+}
+*::before, 
+*::after {
+    box-sizing: inherit;
+}
+.box {
+    margin: 0;
+    padding: 9px;
+    font-size: 12px;
+    background-color: c80000;
+}
+body {
+    background-color: yellowgreen;
+}
